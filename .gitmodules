@@ -10,3 +10,6 @@
 [submodule "Dive-In"]
 	path = Dive-In
 	url = https://github.com/Nikhil-Kasukurthi/Dive-In
+[submodule "Landing-Page"]
+	path = Landing-Page
+	url = https://github.com/Shambhavi96/Shambhavi96.github.io/
