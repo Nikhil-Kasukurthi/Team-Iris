@@ -16,3 +16,6 @@
 [submodule "Iris"]
 	path = Iris
 	url = https://github.com/Ramkishorevit/Iris.git
+[submodule "Iris-Android"]
+	path = Iris-Android
+	url = https://github.com/Ramkishorevit/Iris
