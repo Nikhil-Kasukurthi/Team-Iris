@@ -13,3 +13,6 @@
 [submodule "Landing-Page"]
 	path = Landing-Page
 	url = https://github.com/Shambhavi96/Shambhavi96.github.io/
+[submodule "Iris"]
+	path = Iris
+	url = https://github.com/Ramkishorevit/Iris.git
