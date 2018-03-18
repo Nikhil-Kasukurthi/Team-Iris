@@ -4,3 +4,6 @@
 [submodule "Style-transfer"]
 	path = Style-transfer
 	url = https://github.com/Nikhil-Kasukurthi/Style-transfer
+[submodule "discourse"]
+	path = discourse
+	url = https://github.com/Nikhil-Kasukurthi/discourse
