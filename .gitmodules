@@ -1,3 +1,6 @@
 [submodule "Counting-people-video"]
 	path = Counting-people-video
 	url = https://github.com/Nikhil-Kasukurthi/Counting-people-video
+[submodule "Style-transfer"]
+	path = Style-transfer
+	url = https://github.com/Nikhil-Kasukurthi/Style-transfer
