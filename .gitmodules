@@ -7,3 +7,6 @@
 [submodule "discourse"]
 	path = discourse
 	url = https://github.com/Nikhil-Kasukurthi/discourse
+[submodule "Dive-In"]
+	path = Dive-In
+	url = https://github.com/Nikhil-Kasukurthi/Dive-In
